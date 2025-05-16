@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm currently deep-diving into **Zero Trust Architecture (
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/minhalkazim-sarusnza) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/minhalkazim-sarusnza) *www.linkedin.com/in/minhalkazim-sarusnza*
 - ✉️ Email: *minhalkazim23@gmail.com*
 
 ---
