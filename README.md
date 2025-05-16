@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Muhammad Sumbul
+# 👋 Hey there! I'm Muhammad Minhalkazim
 
 🎯 **Aspiring Cybersecurity Specialist | CCNP ENCOR Student | Network & System Enthusiast**
 
@@ -36,8 +36,8 @@ Welcome to my GitHub! I'm currently deep-diving into **Zero Trust Architecture (
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin) *(www.linkedin.com/in/minhalkazim-sarusnza)*
-- ✉️ Email: *your-email@example.com*
+- 💼 [LinkedIn](https://www.linkedin.com/in/minhalkazim-sarusnza) 
+- ✉️ Email: *minhalkazim23@gmail.com*
 
 ---
 
